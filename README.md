@@ -1,5 +1,8 @@
-# CategoryPoducts-AspdotNet-WebAPI
+# dotnet5-ef-core-Web-API
+
 This project developed for an assignment to show development of basic ASP.NET WEP API skills.
+
+.net Core, Db-First, Migration, Ef Core
 
 # Homework Description
 
